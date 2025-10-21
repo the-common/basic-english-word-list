@@ -17,3 +17,10 @@ path = [
 ]
 SPDX-FileCopyrightText = '2025 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>'
 SPDX-License-Identifier = 'CC-BY-SA-4.0+'
+
+[[annotations]]
+path = [
+    "*.txt"
+]
+SPDX-FileCopyrightText = '2025 Wiktionary contributors <https://en.wiktionary.org/w/index.php?title=Appendix:Basic_English_word_list&action=history&dir=prev>'
+SPDX-License-Identifier = 'CC-BY-SA-4.0+'

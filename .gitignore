@@ -94,3 +94,6 @@
 
 # Don't track unpacked product files
 /project-template-*/
+
+# Ignore unsorted WIP list
+/all.txt

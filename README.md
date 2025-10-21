@@ -7,6 +7,10 @@ List of the 850 words in the [Basic English](https://en.wikipedia.org/wiki/Basic
 
 \#dataset \#english \#passphrase
 
+## Source and attribution
+
+The source of this data set is [Appendix:Basic English word list - Wiktionary, the free dictionary](https://en.wiktionary.org/wiki/Appendix:Basic_English_word_list) by [contributors of the Wiktionary project](https://en.wiktionary.org/w/index.php?title=Appendix:Basic_English_word_list&action=history&dir=prev).
+
 ## Licensing
 
 Unless otherwise noted([comment headers](https://reuse.software/spec-3.3/#comment-headers)/[REUSE.toml](https://reuse.software/spec-3.3/#reusetoml)), this product is licensed under [the 4.0 International version of the Creative Commons Attribution-ShareAlike License](https://creativecommons.org/licenses/by-sa/4.0/), or any of its more recent versions of your preference.
